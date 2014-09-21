@@ -31,5 +31,5 @@ BOARD_USERDATAIMAGE_PARTITION_SIZE := 14472970240
 # TARGET_KERNEL_CONFIG := cyanogenmod_samsung_p4wifi-jb_defconfig
 # Keep this as a fallback
 TARGET_PREBUILT_KERNEL := device/samsung/p4wifi/KitKatKernel
-#TARGET_PREBUILT_KERNEL := device/samsung/p4wifi/minimal-zImage3
+#TARGET_PREBUILT_KERNEL := device/samsung/p4wifi/minimal-zImage4
 
